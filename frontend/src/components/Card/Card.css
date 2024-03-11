@@ -1,0 +1,10 @@
+.card {
+    width: 100%;
+    max-width: 300px;
+    border: 2px dotted rgb(49, 37, 59);
+    min-height: 500px;
+}
+
+.card-img {
+    width: 100%;
+}
